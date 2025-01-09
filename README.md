@@ -1,11 +1,8 @@
-# Data Science Professional Certificate
+# DataCamp Certification - Data Science Professional
 
-DataCamp
+This repository contains my submission for the Data Science Professional Certificate on DataCamp, which involved a live one-hour assessment. The project showcases my ability to analyze data, derive insights, and communicate results effectively under time constraints.
 
-----------
-
-The information provided below is the outcome of a one-hour live assessment conducted on the DataCamp platform. I have intentionally left my work unedited to highlight my original thought process, reasoning, and problem-solving skills under time constraints.
-
-In addition to the coding assessment, I also prepared a presentation within the allotted timeframe, which has been included here for reference.
-
-Please note that the original dataset used for this assessment is not included as I no longer have access to the file. However, the solutions and presentation provided showcase my analytical approach and problem-solving process in addressing the given challenges.
+## Components:
+- **Notebook**: The Jupyter Notebook documents my analysis and code for solving the assessment tasks.
+- **Presentation**: A concise summary of findings and recommendations.
+- **Dataset**: The analysis is based on a provided dataset on used car sales.
